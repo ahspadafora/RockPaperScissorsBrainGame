@@ -14,6 +14,7 @@
 		BA482BF5252FCEB7006E1C62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA482BF4252FCEB7006E1C62 /* Preview Assets.xcassets */; };
 		BA482BF8252FCEB7006E1C62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA482BF6252FCEB7006E1C62 /* LaunchScreen.storyboard */; };
 		BA482C02252FE849006E1C62 /* HandButtonImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA482C01252FE849006E1C62 /* HandButtonImage.swift */; };
+		BA482C04252FEE02006E1C62 /* ButtonTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA482C03252FEE02006E1C62 /* ButtonTitle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BA482BF7252FCEB7006E1C62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA482BF9252FCEB7006E1C62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA482C01252FE849006E1C62 /* HandButtonImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandButtonImage.swift; sourceTree = "<group>"; };
+		BA482C03252FEE02006E1C62 /* ButtonTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonTitle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BA482BEB252FCEB5006E1C62 /* AppDelegate.swift */,
 				BA482BED252FCEB5006E1C62 /* SceneDelegate.swift */,
 				BA482BEF252FCEB5006E1C62 /* ContentView.swift */,
+				BA482C03252FEE02006E1C62 /* ButtonTitle.swift */,
 				BA482BF1252FCEB7006E1C62 /* Assets.xcassets */,
 				BA482BF6252FCEB7006E1C62 /* LaunchScreen.storyboard */,
 				BA482BF9252FCEB7006E1C62 /* Info.plist */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA482BEC252FCEB5006E1C62 /* AppDelegate.swift in Sources */,
+				BA482C04252FEE02006E1C62 /* ButtonTitle.swift in Sources */,
 				BA482BEE252FCEB5006E1C62 /* SceneDelegate.swift in Sources */,
 				BA482C02252FE849006E1C62 /* HandButtonImage.swift in Sources */,
 				BA482BF0252FCEB5006E1C62 /* ContentView.swift in Sources */,
